@@ -20,3 +20,5 @@ export const Wrapper: React.FC<wrapperProps> = ({
     </Box>
   );
 };
+
+export default Wrapper;
